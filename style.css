@@ -47,7 +47,7 @@ body {
     flex-direction: column;
     padding:32px;
     border-radius: 8px;
-    box-shadow: 40px 60px 50px -47px rgba(72, 85, 106, 0.2474);
+    box-shadow: 40px 60px 40px -17px rgba(72, 85, 106, 0.2474);
 }
 .card-container.one {
     background-image: url("/images/bg-pattern-quotation.svg");
