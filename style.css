@@ -33,7 +33,7 @@ body {
     width:90%;
     height:582px;
     max-width:1114px;
-    margin:229px 161px 218px 165px;
+    margin:236px 161px 218px 165px;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: auto auto;
     grid-template-areas:
